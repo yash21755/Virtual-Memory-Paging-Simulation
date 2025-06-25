@@ -1,2 +1,4 @@
-# Virtual-Memory-Paging-Simulation
+# Virtual Memory Paging Simulation
+
+This project simulates virtual memory paging algorithms.
 
